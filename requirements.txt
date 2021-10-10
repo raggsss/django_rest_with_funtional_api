@@ -1,0 +1,4 @@
+Django==3.2.8
+djangorestframework==3.12.4
+Markdown==3.3.4
+Pygments==2.10.0

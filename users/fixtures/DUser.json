@@ -1,0 +1,93 @@
+[
+{
+    "model": "users.duser",
+    "pk": 1,
+    "fields": {
+        "first_name": "Zoe",
+        "last_name": "Phifer",
+        "address": "greece",
+        "contact": "2647595555",
+        "email_id": "zoephfier@yr.com",
+        "website": "www.zoephifer.com",
+        "is_active": true
+    }
+},
+{
+    "model": "users.duser",
+    "pk": 2,
+    "fields": {
+        "first_name": "Zoe",
+        "last_name": "Phifer",
+        "address": "greece",
+        "contact": "264759555",
+        "email_id": "zoephfier@yr.com",
+        "website": "www.zoephifer.com",
+        "is_active": true
+    }
+},
+{
+    "model": "users.duser",
+    "pk": 3,
+    "fields": {
+        "first_name": "Zoe",
+        "last_name": "Phifer",
+        "address": "greece",
+        "contact": "264759555",
+        "email_id": "zoephfier@yr.com",
+        "website": "www.zoephifer.com",
+        "is_active": true
+    }
+},
+{
+    "model": "users.duser",
+    "pk": 4,
+    "fields": {
+        "first_name": "Hewet",
+        "last_name": "towsie",
+        "address": "italy",
+        "contact": "2647595544",
+        "email_id": "hewet@yr.com",
+        "website": "www.Hewet.com",
+        "is_active": true
+    }
+},
+{
+    "model": "users.duser",
+    "pk": 5,
+    "fields": {
+        "first_name": "Bobbie",
+        "last_name": "glen",
+        "address": "poland",
+        "contact": "5747595544",
+        "email_id": "bob@yr.co",
+        "website": "www.bob.com",
+        "is_active": true
+    }
+},
+{
+    "model": "users.duser",
+    "pk": 6,
+    "fields": {
+        "first_name": "Marti",
+        "last_name": "coles",
+        "address": "bangladesh",
+        "contact": "2247595544",
+        "email_id": "marti@yr.co",
+        "website": "www.marti.com",
+        "is_active": true
+    }
+},
+{
+    "model": "users.duser",
+    "pk": 7,
+    "fields": {
+        "first_name": "Matt",
+        "last_name": "Muir",
+        "address": "Swiss",
+        "contact": "4447595544",
+        "email_id": "matt@yr.co",
+        "website": "www.matt.com",
+        "is_active": true
+    }
+}
+]
